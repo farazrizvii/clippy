@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  background-color: transparent;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+/* Custom Scrollbar for Chat */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-thumb { background: #333; border-radius: 3px; }
+::-webkit-scrollbar-track { background: transparent; }
