@@ -44,7 +44,7 @@ Function	Example
 Open websites	open google.com
 Clear chat	clear
 Math processing	2 + 3 * 5
-Clipboard summarize	📋 button
+Clipboard summarize	 button
 Export chat	Save as .txt
  UI/Design
 
@@ -64,7 +64,7 @@ Styling	TailwindCSS
 Build	Vite
 AI	OpenAI API / Gemini API
 Storage	localStorage (no cloud dependency)
-📂 Project Structure
+ Project Structure
 clippy/
 │── src/                # React UI components
 │── electron/           # Electron main + preload scripts
@@ -111,6 +111,6 @@ Toggle settings	Click ⚙
 Minimize widget	Click ─
 Restore window	Double-click bubble
 Drag window	Hold title bar & move
-Resize	Drag corner handle ↘
-Clipboard summarize	Press 📋
+Resize	Drag corner handle 
+Clipboard summarize	Press 
 Send message	 button or Enter
