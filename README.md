@@ -1,6 +1,6 @@
 Clippy AI – Floating Desktop Assistant
 A cross-platform Electron + React AI widget for productivity, automation & real-time AI interaction
-📌 Overview
+ Overview
 
 Clippy AI is a desktop-native AI assistant interface built using Electron + React + TypeScript.
 It works as a floating widget on top of your desktop, draggable, resizable and built for fast AI access without opening a browser or terminal.
@@ -16,8 +16,8 @@ This project demonstrates:
 
 You launch it → type → get answers instantly like a system-level assistant.
 
-✨ Features
-🎛 Desktop Features
+ Features
+ Desktop Features
 
 Frameless always-on-top widget
 
@@ -27,7 +27,7 @@ Minimize to compact floating bubble
 
 Transparent background aesthetic
 
-🤖 AI Interaction
+AI Interaction
 
 Choose provider: OpenAI or similar
 
@@ -39,14 +39,14 @@ Chat history stored locally
 
 Maintains context across messages
 
-🧠 Commands & Utilities
+ Commands & Utilities
 Function	Example
 Open websites	open google.com
 Clear chat	clear
 Math processing	2 + 3 * 5
 Clipboard summarize	📋 button
 Export chat	Save as .txt
-🖌 UI/Design
+ UI/Design
 
 TailwindCSS + custom gold cyber styling
 
@@ -56,7 +56,7 @@ Light/Dark Motate modes
 
 Smooth interaction & depth shadows
 
-🏗 Tech Stack
+ Tech Stack
 Layer	Technology
 Runtime	Electron.js
 UI	React + TypeScript
@@ -74,7 +74,7 @@ clippy/
 │── ...
 └── README.md
 
-🚀 Run Locally
+Run Locally:
 
 No .env required
 API key is securely entered inside the app Settings Panel.
@@ -105,7 +105,7 @@ Gemini → API Key
 Nothing is saved to cloud.
 Key remains only in your local browser storage.
 
-🧠 How To Use
+How To Use
 Action	How
 Toggle settings	Click ⚙
 Minimize widget	Click ─
